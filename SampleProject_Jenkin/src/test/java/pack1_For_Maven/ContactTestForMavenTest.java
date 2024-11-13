@@ -16,7 +16,7 @@ public class ContactTestForMavenTest {
 	System.out.println(USERNAME);
 	System.out.println(PASSWORD);
 	
-		System.out.println("Execute createcontactTest");
+		System.out.println("Execute createcontactTest on POLL SCM z");
 	}
 	@Test
 	public void modifycontactTest()
