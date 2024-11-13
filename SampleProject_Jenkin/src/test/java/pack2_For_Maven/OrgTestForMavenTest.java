@@ -2,7 +2,7 @@ package pack2_For_Maven;
 
 import org.testng.annotations.Test;
 
-public class OrgTestForMaven {
+public class OrgTestForMavenTest {
 	
 @Test
 	public void createOrgTest()

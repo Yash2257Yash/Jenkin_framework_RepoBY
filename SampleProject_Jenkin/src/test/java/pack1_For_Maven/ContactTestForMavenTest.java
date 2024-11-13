@@ -2,7 +2,7 @@ package pack1_For_Maven;
 
 import org.testng.annotations.Test;
 
-public class ContactTestForMaven {
+public class ContactTestForMavenTest {
 @Test
 	public void createcontactTest()
 	{
